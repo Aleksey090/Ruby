@@ -1,2 +1,2 @@
 # Ruby
-Demo repository Ruby
+Demo repository Ruby Lessons
